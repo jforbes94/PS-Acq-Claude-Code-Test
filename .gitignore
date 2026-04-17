@@ -1,0 +1,19 @@
+# Database files
+*.sqlite
+*.db
+
+# Data files
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
